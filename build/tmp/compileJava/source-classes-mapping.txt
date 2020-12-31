@@ -1,0 +1,2 @@
+com/example/admin/Application.java
+ com.example.admin.Application
